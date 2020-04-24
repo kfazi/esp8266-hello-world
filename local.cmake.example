@@ -1,0 +1,2 @@
+set(TOOLCHAIN_XTENSA_LX106_ELF "path/to/toolchain/root")
+set(ESP_PORT0 "COMnn")
